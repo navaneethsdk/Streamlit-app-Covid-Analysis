@@ -1,7 +1,7 @@
 # COVID-19 Data Visualizations with Streamlit
 
 ## Introduction
-Welcome to the India COVID-19 Data Visualizations Streamlit app repository! This app is designed to provide comprehensive visual insights into the COVID-19 data in India. Through interactive charts, graphs, and maps, users can explore and analyze various aspects of the pandemic's impact on the country.
+Welcome to the COVID-19 Data Visualizations Streamlit app repository! This app is designed to provide comprehensive visual insights into the COVID-19 data in India. Through interactive charts, graphs, and maps, users can explore and analyze various aspects of the pandemic's impact on the country.
 
 ## Features
 - Real-time Data: Our app fetches the latest COVID-19 data from reliable sources and presents it in real-time, ensuring that you're always up-to-date with the current situation.
